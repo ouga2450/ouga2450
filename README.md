@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=rails" width="100" height="100" alt="Flutter" />
+<img src="https://skillicons.dev/icons?i=rails" width="100" height="100" alt="Rails" />
 <br><strong>Rails</strong>
 </td>
 <td width="400" align="left">
@@ -53,7 +53,7 @@
 <td width="50%" align="center" valign="top">
 
 ### 🔧 **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </td>
 <td width="50%" align="center" valign="top">
